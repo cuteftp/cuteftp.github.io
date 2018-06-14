@@ -1,15 +1,19 @@
-## Welcome to 李永红老师的测试页
+## Welcome to 李永红老师的学习网站
 
-You can use the [editor on GitHub](https://github.com/cuteftp/cuteftp.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+本网站所用模板地址 [点击查看](https://github.com/cuteftp/cuteftp.github.io/) ,欢迎转载.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+每一次更新页面, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### 参考网页
 
-1.Gaohaoyang[博客模板1](https://github.com/gaohaoyang/gaohaoyang.github.io)
-[博客1](https://gaohaoyang.github.io/)
-xudailong[博客模板1](https://643435675.github.io/)
-2.潘柏信的[博客模板2](http://baixin.io/2016/10/jekyll_tutorials1/)
+1.  如何在github上搭建网站？[查看详细步骤](https://www.cnblogs.com/camille666/p/how_to_build_website_at_github.html/),这个文章包含了详细的操作过程，还有域名的解析等
+2.  觉得自己重头建一个博客太麻烦，那么直接从下面几个大牛的博客复制一个吧
+1）[Gaohaoyang的博客1](https://gaohaoyang.github.io/)
+   [Gaohaoyang的博客模板下载地址1](https://github.com/gaohaoyang/gaohaoyang.github.io)
+2）[xudailong的博客](https://643435675.github.io/) 从Gaohaoyang博客forked过来的 
+[xudailong的博客模板下载地址1](https://github.com/643435675/643435675.github.io/)
+3）潘柏信的[博客](http://baixin.io/)，也是本站目前使用的模板
+  [博客模板2](https://github.com/leopardpan/leopardpan.github.io)
 3.leopard的[博客模板3](https://github.com/MengZheK/kangblog.github.io)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
