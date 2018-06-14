@@ -6,7 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 参考网页
 
-1.Gaohaoyang[博客模板1](https://gaohaoyang.github.io)
+1.Gaohaoyang[博客模板1](https://github.com/gaohaoyang/gaohaoyang.github.io)
+[博客1](https://gaohaoyang.github.io/)
 xudailong[博客模板1](https://643435675.github.io/)
 2.潘柏信的[博客模板2](http://baixin.io/2016/10/jekyll_tutorials1/)
 3.leopard的[博客模板3](https://github.com/MengZheK/kangblog.github.io)
