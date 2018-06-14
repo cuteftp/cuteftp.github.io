@@ -6,8 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 参考网页
 
-1.leopard的[博客模板](https://github.com/MengZheK/kangblog.github.io)
-2.潘柏信的[博客模板](http://baixin.io/2016/10/jekyll_tutorials1/)
+1.Gaohaoyang[博客模板1](https://gaohaoyang.github.io)
+xudailong[博客模板1](https://643435675.github.io/)
+2.潘柏信的[博客模板2](http://baixin.io/2016/10/jekyll_tutorials1/)
+3.leopard的[博客模板3](https://github.com/MengZheK/kangblog.github.io)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
