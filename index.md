@@ -3,6 +3,9 @@
 本网站所用模板地址 [点击查看](https://github.com/cuteftp/cuteftp.github.io/){:target="_blank"} ,欢迎转载.
 
 每一次更新页面, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 微信小程序开发资源
+1、[微信小程序设置底部导航栏目方法](https://blog.csdn.net/u012118993/article/details/52943783){:target="_blank"} ,
+2、
 
 ### 参考网页
 
