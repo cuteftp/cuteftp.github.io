@@ -1,7 +1,10 @@
+
 ## 《网络应用开发》课程资源网站
 
 1. 授课教师：李永红
-2.学校：深圳信息职业技术学院
+2. 学校：深圳信息职业技术学院
+3. 学院： 中德学院
+4. 面向班级： 17中德通信技术、18工业网络技术
 
 ### 如何建立个人博客？
 
@@ -44,7 +47,7 @@
 19. [林晓畑的博客]( https://lxtxx.github.io){:target="_blank"}
 20. [林燕凤的博客]( https://Raynas.github.io){:target="_blank"}
 21. [陆明清的博客]( https://babylikeLmq.github.io){:target="_blank"}
-22.[罗秋明的博客]( https://ywhlqm.github.io){:target="_blank"}
+22. [罗秋明的博客]( https://ywhlqm.github.io){:target="_blank"}
 23. [倪惠玲的博客]( https://nihuiling.github.io/){:target="_blank"}
 24. [秦晴娜的博客]( https://QINQQN.github.io){:target="_blank"}
 25. [吴东涛的博客]( https://wuyanzu12.github.io){:target="_blank"}
