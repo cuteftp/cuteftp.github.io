@@ -1,10 +1,14 @@
-
-## 《网络应用开发》课程资源网站
-
 1. 授课教师：李永红
 2. 学校：深圳信息职业技术学院
 3. 学院： 中德学院
 4. 面向班级： 17中德通信技术、18工业网络技术
+
+### 前端开发学习资源
+1.  零基础的前端开发初学者应如何系统地学习？[看各路大神的经验分享](https://www.zhihu.com/question/19834302},非常详细等
+2.  觉得自己很厉害了，那么直接在线闯关拿证吧
+- 1）[FreeCodeCamp](https://www.freecodecamp.cn}
+- 2）[W3School](https://www.w3cschool.cn/}
+   
 
 ### 如何建立个人博客？
 
@@ -17,6 +21,7 @@
 - 3）潘柏信的[博客](http://baixin.io/){:target="_blank"}，也是本站目前使用的模板
   [博客模板2](https://github.com/leopardpan/leopardpan.github.io){:target="_blank"}
 - 4）leopard的[博客模板3](https://github.com/MengZheK/kangblog.github.io){:target="_blank"}
+
 
 ### 微信小程序开发资源
 1. [微信小程序设置底部导航栏目方法](https://blog.csdn.net/u012118993/article/details/52943783){:target="_blank"} 
