@@ -29,6 +29,9 @@
 3. [微信小程序发布流程](https://jingyan.baidu.com/article/fea4511a2e027cf7bb91250c.html ){:target="_blank"}
 4. [微信小程序视频教程](https://pan.baidu.com/s/1kUXxZ0b){:target="_blank"}
 
+### 2018级学生作品
+1. [许雪静的个性化导航](https://huachenyuhuahua.github.io/){:target="_blank"}
+
 ### 2017级学生作品
 
 1. [蔡瑞兰的博客]( https://RaeLyn-Cai.github.io){:target="_blank"}
