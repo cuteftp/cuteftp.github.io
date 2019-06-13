@@ -4,10 +4,10 @@
 4. 面向班级： 17中德通信技术、18工业网络技术
 
 ### 前端开发学习资源
-1.  零基础的前端开发初学者应如何系统地学习？[看各路大神的经验分享](https://www.zhihu.com/question/19834302},非常详细等
+1.  零基础的前端开发初学者应如何系统地学习？[看各路大神的经验分享](https://www.zhihu.com/question/19834302){:target="_blank"},非常详细等
 2.  觉得自己很厉害了，那么直接在线闯关拿证吧
-- 1）[FreeCodeCamp](https://www.freecodecamp.cn}
-- 2）[W3School](https://www.w3cschool.cn/}
+- 1）[FreeCodeCamp](https://www.freecodecamp.cn){:target="_blank"}
+- 2）[W3School](https://www.w3cschool.cn/){:target="_blank"}}
    
 
 ### 如何建立个人博客？
